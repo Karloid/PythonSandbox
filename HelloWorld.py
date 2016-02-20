@@ -8,5 +8,4 @@ if 1 > 2:
 else:
     print '2 > 1'
 
-
 print "End of program lol"
