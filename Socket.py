@@ -2,8 +2,8 @@ import socket
 
 import sys
 
-host = 'www.lib.ru'
-port = 80
+host = ''
+port = 7000
 
 print "Creating socket"
 
